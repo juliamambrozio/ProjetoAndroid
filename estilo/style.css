@@ -74,10 +74,12 @@ header > h1{
 header > p{
     font-family: var(--fonte-padrao);
     color: white;
-    max-width: 500px; /*Para a frase ocupar duas linhas*/
+    font-size: 1.2em;
+    max-width: 600px; /*Para a frase ocupar duas linhas*/
     margin: auto;
     padding-right: 10px;
     padding-left: 10px;
+    padding-bottom: 50px;
     text-shadow: 2px 2px 0px rgba(0, 0, 0, 0.212);
 }
 
